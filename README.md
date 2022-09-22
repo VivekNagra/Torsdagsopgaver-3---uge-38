@@ -1,2 +1,3 @@
 # Torsdagsopgaver-3---uge-38
-Vivek - dat. e22 
+navn: Vivek Singh Nagra - (dat. e22) 
+email: cph-vn56@cphbusiness.dk
